@@ -7,11 +7,12 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 - software engineering
 is a branch of computer science used for developing, testing and maintaining software.
+
 IMPORTANCE
-- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
--reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
--security - implement protection practice like authentication, authorization and encryption to secure users information.
--efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+   scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+   reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.
+   security - implement protection practice like authentication, authorization and encryption to secure users information.
+   efficiency - it helps to optimize developer workflow while maintaining high quality standards.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Mastering Complexity
@@ -110,12 +111,12 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 - prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
-Importance:
-Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
-Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
-developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
+   Importance:
+   Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+   Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+   developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-- Write about technology.
-- Write a 500-word blog post on how artificial intelligence is transforming the healthcare industry, including examples of AI applications in diagnosis, treatment, and administrative tasks
+   - Write about technology.
+   - Write a 500-word blog post on how artificial intelligence is transforming the healthcare industry, including examples of AI applications in diagnosis, treatment, and administrative tasks
